@@ -5,7 +5,7 @@
 
     <theme href="index.html" />
 
-    <replace css:theme="html head" css:content="html head" />
+    <replace css:content="html head" css:theme="html head" />
 
     <replace css:content="#portal-colophon" css:theme="#portal-colophon" />
     <replace css:content="#portal-column-content" css:theme="#portal-column-content" />
