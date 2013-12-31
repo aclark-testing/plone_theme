@@ -3,7 +3,7 @@
     xmlns:css="http://namespaces.plone.org/diazo/css"
     >
 
-    <theme href="index.html" css:if-content="#visual-portal-wrapper" />
+    <theme href="index.html" css:if-content="#visual-portal-wrapper" /> <!-- Apply theme if Plone i.e. not ZMI -->
 
     <replace css:content="html head" css:theme="html head" />
 
