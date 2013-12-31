@@ -1,0 +1,10 @@
+<configure
+    xmlns:plone="http://namespaces.plone.org/plone"
+    >
+
+    <plone:static
+        directory="theme"
+        type="theme"
+        />
+
+</configure>
