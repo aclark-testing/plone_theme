@@ -1,8 +1,8 @@
 <rules
-    xmlns:diazo="http://namespaces.plone.org/diazo"
+    xmlns="http://namespaces.plone.org/diazo"
     xmlns:css="http://namespaces.plone.org/diazo/css"
     >
 
-    <theme file="index.html" />
+    <theme href="index.html" />
 
 </rules>
